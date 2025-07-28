@@ -65,7 +65,7 @@ When the hidden button is pressed, the box slowly opens and the LED lights up �
 
 ## 📂 Files
 
-- `MagicBox.ino` → Arduino sketch
+- `Main.ino` → Arduino sketch
 - `LICENSE` → Open-source license (MIT)
 - `README.md` → This file
 
