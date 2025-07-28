@@ -1,0 +1,23 @@
+# File di backup e temporanei
+*.tmp
+*.bak
+*.swp
+*~
+
+# File generati dall'IDE Arduino
+*.elf
+*.hex
+*.bin
+*.d
+
+# File di log o output
+*.log
+
+# File di sistema (macOS, Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cartelle dell'IDE (opzionali, se usi VS Code o PlatformIO)
+.vscode/
+.pio/
